@@ -12,7 +12,7 @@ Hello, my name is Thuy Vy Tran and I am part of department of Computer Science a
 
 ## About My Mentor
 
-My mentor is [Dr. Elaine Short](https://eshort.github.io/). She is an assistant professsor in the Computer Science Department at Tufts University. Her main research focus on combining artifical intellegences and robotics to help assists people in achieving their goals, with a focus on people with disability, children and older adults. Her research is done at the [AABL (Assistive Agent Behavior and Learning Lab)](https://aabl.cs.tufts.edu/) at Tufts university where they develop algorithms for human-robot interaction. 
+My mentor is [Dr. Elaine Short](https://eshort.github.io/). She is an assistant professsor in the Computer Science Department at Tufts University. Her main research focus on combining artifical intellegences and robotics to help assists people in achieving their goals, with a focus on people with disability, children and older adults. Her research is done at the [AABL (Assistive Agent Behavior and Learning Lab)](https://aabl.cs.tufts.edu/) at Tufts University where they develop algorithms for human-robot interaction. 
 
 ## About My Project
 
