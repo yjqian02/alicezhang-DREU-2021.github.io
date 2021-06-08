@@ -20,7 +20,7 @@ My mentor is [Dr. Elaine Short](https://eshort.github.io/). She is an assistant 
 
 ## About My Project
 
-Project description goes here.
+My project will be focusing on the subject of Artifical Intelligence, Machine Learning with Robots. The project will entail 
 
 [My Final Report](files/finalreport.pdf)
 
