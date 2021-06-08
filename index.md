@@ -26,6 +26,6 @@ Project description goes here.
 
 ## My Blog
 
-[My Blog](blog.html)
+[My Blog](https://thuyvytran.github.io/vytran.github.io/blog.html)
 
 
