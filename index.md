@@ -20,7 +20,7 @@ My mentor is [Dr. Elaine Short](https://eshort.github.io/). She is an assistant 
 
 ## About My Project
 
-My project will be focusing on the subject of Artifical Intelligence, Machine Learning with Robots. The project will entail 
+My project will be focusing on the subject of how to use human feedback as a way to teach a robot to learn a task. Since many people teaching style changes over time there will be a differences between someone teaching a robot for ten minutes verses two hours. By comparing the two duration of learning it will help improve the feedback a robot will receive from human interaction. 
 
 [My Final Report](files/finalreport.pdf)
 
