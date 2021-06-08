@@ -20,7 +20,7 @@ My mentor is [Dr. Elaine Short](https://eshort.github.io/). She is an assistant 
 
 ## About My Project
 
-My project will be focusing on the subject of how to use human feedback as a way to teach a robot to learn a task. Since many people teaching style changes over time there will be a differences between someone teaching a robot for ten minutes verses two hours. By comparing the two duration of learning it will help improve the feedback a robot will receive from human interaction. 
+My project will be focusing on the subject of how human feedback to a robot changes over time as the robot learns a task. Since we expect that teaching style changes over time there will be a differences between someone teaching a robot for ten minutes verses two hours. By having people teach a robot (or virtual agent) over long periods of time and comparing the feedback early in teaching to the feedback later in teaching, it will help improve our understanding of the feedback a robot will receive from human interaction.
 
 [My Final Report](files/finalreport.pdf)
 
