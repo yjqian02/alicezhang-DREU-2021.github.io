@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/20
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: zhan6698@gmail.com
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
@@ -32,7 +32,7 @@ url: https://alicezhang-DREU-2021.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://yjqian02.github.io/alicezhang-DREU-2021"
+baseurl: "/alicezhang-DREU-2021"
 
 #
 # !! You don't need to change any of the configuration flags below !!
