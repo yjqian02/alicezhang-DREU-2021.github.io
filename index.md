@@ -3,7 +3,7 @@ layout: default
 title: Summer 2021 DREU Project Site
 ---
 
-[]: # (* TOC)
+<!--* TOC-->
 []: # ({:toc})
 
 ## About Me
