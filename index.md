@@ -13,7 +13,7 @@ title: Summer 2021 DREU Project Site
 <img align = "left" src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" alt="profile" width="200"/>
 
 <br/>
-Alice Zhang\
+&nbsp; Alice Zhang\
 University: University of Minnesota, Twin Cities\
 Major: Computer Science\
 Grade Level: Sophomore\
