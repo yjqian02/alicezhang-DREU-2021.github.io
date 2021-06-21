@@ -19,7 +19,7 @@ title: Summer 2021 DREU Project Site
 
 ###### University: University of Minnesota, Twin Cities\
 
-###### Major: <p> Computer Science </p> \
+###### Major: <p>Computer Science</p>\
 
 ###### Grade Level: <p>Sophomore </p> \
 
