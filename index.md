@@ -4,7 +4,7 @@ title: Summer 2021 DREU Project Site
 ---
 
 <!--* TOC-->
-[]: # ({:toc})
+<!--{:toc}-->
 
 ## About Me
 
