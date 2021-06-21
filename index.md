@@ -13,15 +13,15 @@ title: Summer 2021 DREU Project Site
 <img align = "left" src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" alt="profile" width="200"/>
 
 <br/>
-&nbsp; ###Alice Zhang\
-&nbsp; ###University: University of Minnesota, Twin Cities\
-&nbsp; ###Major: 
+&nbsp; ### Alice Zhang\
+&nbsp; ### University: University of Minnesota, Twin Cities\
+&nbsp; ### Major: 
 Computer Science\
-&nbsp; ###Grade Level: 
+&nbsp; ### Grade Level: 
 Sophomore\
-&nbsp; ###Graduation: 
+&nbsp; ### Graduation: 
 May 2024\
-&nbsp; ###Email: 
+&nbsp; ### Email: 
 zhan6698@umn.edu\ 
 <br/><br/>
 
