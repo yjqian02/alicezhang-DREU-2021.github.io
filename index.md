@@ -7,7 +7,7 @@ title: Summer 2021 DREU Project Site
 <!--{:toc}-->
 
 ## About Me
-
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 Alice Zhang\
 University: University of Minnesota, Twin Cities\
 Major: Computer Science\
