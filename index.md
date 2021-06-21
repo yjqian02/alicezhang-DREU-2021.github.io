@@ -8,8 +8,8 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-Alice Zhang
-University: University of Minnesota, Twin Cities
+Alice Zhang  return
+University: University of Minnesota, Twin Cities  return
 Major: Computer Science
 Grade Level: Sophomore
 Graduation: May 2024
