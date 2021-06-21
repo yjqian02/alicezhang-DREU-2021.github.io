@@ -14,10 +14,9 @@ title: Summer 2021 DREU Project Site
 
 <br/>
 &nbsp; 
+<strong>Alice Zhang</strong>
 
-<strong>Alice Zhang</strong>\
-
-<strong>University: University of Minnesota, Twin Cities</strong>\
+<strong>University: University of Minnesota, Twin Cities</strong>
 
 **Major:** Computer Science\
 
