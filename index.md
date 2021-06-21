@@ -18,7 +18,8 @@ title: Summer 2021 DREU Project Site
 &nbsp; Major: Computer Science\
 &nbsp; Grade Level: Sophomore\
 &nbsp; Graduation: May 2024\
-&nbsp; Email: zhan6698@umn.edu\ <br/><br/>
+&nbsp; Email: zhan6698@umn.edu\ 
+<br/><br/>
 
 
 ## About My Mentor
