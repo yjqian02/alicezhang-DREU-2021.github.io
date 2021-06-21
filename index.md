@@ -16,7 +16,6 @@ title: Summer 2021 DREU Project Site
 &nbsp; 
 
 ###### Alice Zhang\
-&nbsp; 
 
 ###### University: University of Minnesota, Twin Cities\
 &nbsp; 
