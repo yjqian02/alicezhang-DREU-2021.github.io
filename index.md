@@ -7,10 +7,10 @@ title: Summer 2021 DREU Project Site
 <!--{:toc}-->
 
 ## About Me
-<!--<img src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" width="220" height="220" />-->
+<!--<img src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" width="200" height="200" />-->
 <!--![Alt text](https://yjqian02.github.io/alicezhang-dreu/images/profile.png =250x150)\-->
 
-<img align = "left" src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" alt="profile" width="200"/>
+<img align = "left" src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" alt="profile" width="220"/>
 
 &nbsp; 
 <strong>Alice Zhang</strong>
