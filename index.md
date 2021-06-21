@@ -21,7 +21,7 @@ title: Summer 2021 DREU Project Site
 
 **Major:** Computer Science\
 
-**>Grade Level:** Sophomore\
+**Grade Level:** Sophomore\
 
 <strong>Graduation:</strong> May 2024 \
 
