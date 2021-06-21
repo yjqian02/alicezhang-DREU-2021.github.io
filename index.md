@@ -12,7 +12,6 @@ title: Summer 2021 DREU Project Site
 
 <img align = "left" src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" alt="profile" width="200"/>
 
-<br/>
 &nbsp; 
 <strong>Alice Zhang</strong>
 
