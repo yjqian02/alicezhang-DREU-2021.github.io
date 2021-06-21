@@ -15,25 +15,25 @@ title: Summer 2021 DREU Project Site
 <br/>
 &nbsp; 
 
-#### Alice Zhang\
+###### Alice Zhang\
 &nbsp; 
 
-#### University: University of Minnesota, Twin Cities\
+###### University: University of Minnesota, Twin Cities\
 &nbsp; 
 
-#### Major: 
+###### Major: 
 Computer Science\
 &nbsp; 
 
-#### Grade Level: 
+###### Grade Level: 
 Sophomore\
 &nbsp; 
 
-#### Graduation: 
+###### Graduation: 
 May 2024\
 &nbsp; 
 
-#### Email: 
+###### Email: 
 zhan6698@umn.edu\ 
 <br/><br/>
 
