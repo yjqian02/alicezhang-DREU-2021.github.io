@@ -19,17 +19,13 @@ title: Summer 2021 DREU Project Site
 
 ###### University: University of Minnesota, Twin Cities\
 
-###### Major: 
-Computer Science\
+###### Major: <p> Computer Science </p> \
 
-###### Grade Level: 
-Sophomore\
+###### Grade Level: <p>Sophomore </p> \
 
-###### Graduation: 
-May 2024\
+###### Graduation: <p> May 2024 <p/> \
 
-###### Email: 
-zhan6698@umn.edu\ 
+###### Email: <p> zhan6698@umn.edu </p> \ 
 
 <br/><br/>
 ## About My Mentor
