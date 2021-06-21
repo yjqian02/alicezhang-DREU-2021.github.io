@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 <img src="dhttps://yjqian02.github.io/alicezhang-dreu/images/profile.png" alt="profile" width="200"/>
-![Alt text](https://yjqian02.github.io/alicezhang-dreu/images/profile.png)\
+![Alt text](https://yjqian02.github.io/alicezhang-dreu/images/profile.png =250x150)\
 Alice Zhang\
 University: University of Minnesota, Twin Cities\
 Major: Computer Science\
