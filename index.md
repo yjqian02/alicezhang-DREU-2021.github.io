@@ -41,7 +41,7 @@ title: Summer 2021 DREU Project Site
 
 **Research Areas:** Human-Computer Interaction and Social Computing
 
-
+[<strong>Social Futures Lab</strong>](http://social.cs.washington.edu/)
 
 ## About My Project
 
