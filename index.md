@@ -2,7 +2,9 @@
 layout: default
 title: Summer 2021 DREU Project Site
 ---
-<center>[About](about.html) -- [Project](project.html) -- [Blog](blog.html)</center>
+<center>[About](about.html) 
+[Project](project.html)
+[Blog](blog.html)</center>
 <!--* TOC-->
 <!--{:toc}-->
 
