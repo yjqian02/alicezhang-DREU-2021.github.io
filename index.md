@@ -10,7 +10,7 @@ title: Summer 2021 DREU Project Site
 <!--<img src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" width="200" height="200" />-->
 <!--![Alt text](https://yjqian02.github.io/alicezhang-dreu/images/profile.png =250x150)\-->
 
-<img align = "left" src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" alt="profile" width="275"/>
+<img align = "left" src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" alt="profile" width="245"/>
 
 &nbsp; 
 <strong>Alice Zhang</strong>
@@ -33,15 +33,12 @@ title: Summer 2021 DREU Project Site
 <br/><br/>
 ## About My Mentor
 
-<img align = "right" src="https://yjqian02.github.io/alicezhang-dreu/images/amy-profile.png" alt="amy-profile" width="275"/>
+<img align = "right" src="https://yjqian02.github.io/alicezhang-dreu/images/amy-profile.png" alt="amy-profile" width="300"/>
 
-&nbsp; 
 [<strong>Amy Zhang</strong>](https://homes.cs.washington.edu/~axz/)
 
-&nbsp; 
 <strong>Allen School of Computer Science & Engineering, University of Washington</strong>
 
-&nbsp; 
 **Research Areas:** Human-Computer Interaction and Social Computing
 
 
