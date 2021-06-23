@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Alice Zhang DREU 2021
----
-<p align="center">
-  [About](about.html) -- [Project](project.html) -- [Blog](blog.html)
-</p>
+--
+# [About](about.html) -- [Project](project.html) -- [Blog](blog.html)
   
 <!--* TOC-->
 <!--{:toc}-->
