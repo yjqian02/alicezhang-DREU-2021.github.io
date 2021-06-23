@@ -198,8 +198,11 @@ img {
   font-weight: 700;
   font-size: 35px;
   letter-spacing: 1px;
-}
 
+@include mobile {
+	text-align: center;
+}
+}
 .site-description {
   margin: -10px 10 0 0;
   color: $slateGray;
