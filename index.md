@@ -28,12 +28,23 @@ title: Summer 2021 DREU Project Site
 <strong>Graduation:</strong> May 2024
 
 &nbsp; 
-<strong>Email:</strong> zhan6698@umn.edu\
+<strong>Email:</strong> zhan6698@umn.edu
 
 <br/><br/>
 ## About My Mentor
 
-Mentor info goes here.
+<img align = "right" src="https://yjqian02.github.io/alicezhang-dreu/images/amy-profile.png" alt="amy-profile" width="275"/>
+
+&nbsp; 
+[<strong>Amy Zhang</strong>](https://homes.cs.washington.edu/~axz/)
+
+&nbsp; 
+<strong>Allen School of Computer Science & Engineering, University of Washington</strong>
+
+&nbsp; 
+**Research Areas:** Human-Computer Interaction and Social Computing
+
+
 
 ## About My Project
 
