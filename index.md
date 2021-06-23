@@ -2,7 +2,7 @@
 layout: default
 title: Summer 2021 DREU Project Site
 ---
-[Mentor](#About-My-Mentor] -- [Project](## About My Project) -- [Blog](## My Blog) text align = "right"
+<!--[Mentor](#About-My-Mentor] -- [Project](## About My Project) -- [Blog](## My Blog) text align = "right"-->
 <!--* TOC-->
 <!--{:toc}-->
 
@@ -52,7 +52,3 @@ Project description goes here.
 ## [My Blog](blog.html)
 
 <!--[My Blog](blog.html)-->
-
-<a name="Mentor">
-   About My Mentor
-</a>
