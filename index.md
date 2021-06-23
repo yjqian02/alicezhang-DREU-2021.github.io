@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Summer 2021 DREU Project Site
+title: Alice Zhang DREU 2021
 ---
-[About](about.html)
-[Project](project.html)
-[Blog](blog.html)
+## [About](about.html) -- [Project](project.html) -- [Blog](blog.html)
 <!--* TOC-->
 <!--{:toc}-->
 
