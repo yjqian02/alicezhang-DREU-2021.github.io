@@ -45,6 +45,7 @@ title: Alice Zhang DREU 2021
 
 [<strong>Social Futures Lab</strong>](http://social.cs.washington.edu/)
 
+<br/><br/>
 ## About My Project
 
 **Project:**
