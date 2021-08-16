@@ -3,10 +3,7 @@ layout: default
 title: Alice Zhang DREU 2021
 ---
 
-<!--# [About](about.html) -- [Project](project.html) -- [Blog](blog.html)-->
-  
-<!--* TOC-->
-<!--{:toc}-->
+## [Research Journal](blog.html)
 
 ## About Me
 <!--<img src="https://yjqian02.github.io/alicezhang-dreu/images/profile.png" width="200" height="200" />-->
@@ -58,6 +55,5 @@ Our project aims to understand user preferences for setting personal content con
 
 [Final Project Report](files/finalreport.pdf)
 
-## [My Blog](blog.html)
 
-<!--[My Blog](blog.html)-->
+
