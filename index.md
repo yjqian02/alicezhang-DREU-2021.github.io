@@ -49,7 +49,7 @@ title: Alice Zhang DREU 2021
 ## About My Project
 
 **Project:**
-Our project aims to understand user preferences for setting personal content configurations. The investigation takes a user-centered approach to understand how end-users would like to manage their moderation configurations and the reasoning behind why these preferences differ. Our study uses a between-subjects design with xy Mechanical Turk workers to investigate user preferences for differing types of content moderation inferfaces including toggle buttons, sliders, and drop downs.
+Our project aims to understand user preferences for setting personal content configurations. The investigation takes a user-centered approach to understand how end-users would like to manage their moderation configurations and the reasoning behind why these preferences differ. Our study uses a between-subjects design with xy Mechanical Turk workers to investigate user preferences for differing types of content moderation inferfaces including toggle buttons, sliders, and word filters.
 
 **Goals:**
 1. Gain insights on how user preferences for specific interfaces relate to specific types of content
